@@ -13,7 +13,7 @@
     "dependencies": {
         "mime": "1.2.x",
         "asyncjs": "0.0.x",
-        "jsdom": "0.2.x",
+        "jsdom": "16.6.0",
         "amd-loader": "~0.0.4",
         "plist": "",
         "dryice": ""
